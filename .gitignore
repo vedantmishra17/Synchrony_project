@@ -1,0 +1,15 @@
+# Virtual Environments
+venv/
+env/
+synchrony_env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# DS files
+*.pkl
+*.joblib

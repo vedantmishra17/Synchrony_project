@@ -1,0 +1,16 @@
+{
+  "train_rows": 17608,
+  "test_rows": 4403,
+  "declining_rows": 11799,
+  "non_declining_rows": 10212,
+  "logistic_auc_roc": 0.641988352124244,
+  "logistic_average_precision": 0.6298206175268172,
+  "logistic_top_decile_precision": 0.6598639455782312,
+  "xgb_auc_roc": 0.6851355807760273,
+  "xgb_average_precision": 0.6538945432268259,
+  "xgb_precision_at_0_5": 0.6339943342776204,
+  "xgb_recall_at_0_5": 0.9483050847457627,
+  "xgb_top_decile_precision": 0.6848072562358276,
+  "xgb_brier_score": 0.20115320356162913,
+  "test_top_decile_customers": 441
+}
